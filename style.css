@@ -10,7 +10,7 @@ body{
 }
 .navbar{
 	display:flex;
-	align-item:center;
+	align-items:center;
 	padding:5px;
 }
 nav{
@@ -40,7 +40,7 @@ p{
 }
 .row{
 	display:flex;
-	align-item:center;
+	align-items:center;
 	flex-wrap:wrap;
 	justify-content:space-around;
 }
@@ -464,7 +464,7 @@ section{
 	margin-bottom:20px;
 }
 .contact-form p{
-	color:#c6c98bf;
+	color:#c6c98b;
 	letter-spacing:1px;
 	line-height:26px;
 	font-size:1.1rem;
